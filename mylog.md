@@ -33,3 +33,15 @@
 
 **Tweet:**  
 **LinkedIn:** No - Only for Real Big Projects and News
+
+### Day #: March #, 2021
+##### More Free Code Camp - Responsive Web Design
+
+**Today's Progress:** Created simple website to start putting snippets for graphic and animations I'm learning to do with CSS
+
+**Thoughts:** Creating from scratch and coding is fun!! Hoping that creating this site and putting my notes into an actual website will help with remember what is available at my finger tips without having to import a ton of libraries 
+
+**Link to work:** [GITHUB PAGES](https://dcbeergoddess.github.io/free-code-camp-snippets/) || [GITHUB REPO](https://github.com/dcbeergoddess/free-code-camp-snippets)
+
+**Tweet:** YES 
+**LinkedIn:** NO
