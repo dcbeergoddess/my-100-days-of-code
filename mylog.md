@@ -34,7 +34,7 @@
 **Tweet:**  
 **LinkedIn:** No - Only for Real Big Projects and News
 
-### Day #: March #, 2021
+### Day 2: March 3, 2021
 ##### More Free Code Camp - Responsive Web Design
 
 **Today's Progress:** Created simple website to start putting snippets for graphic and animations I'm learning to do with CSS
@@ -45,3 +45,12 @@
 
 **Tweet:** YES 
 **LinkedIn:** NO
+
+### Day 3: March 4, 2021
+##### Right Accessible Code
+
+**Today's Progress:** After a few challenges on Free Code Camp under Applied Accessibility and review of best practices for Screen Readers I started a page for my Yarn Projects to illustrate best practices. HTML5 introduction better semantic tags like nav, main, article you can see used throughout React and CSS Libraries like bootstrap. 
+**Thoughts:** Started a skelton html page that I want to develop into a full blow marketing page for my future designs. Good to start full page from scratch and run into the stupid mistakes like not linking pictures right. 
+**Link to work:** [Yarn Projects Page](https://dcbeergoddess.github.io/free-code-camp-snippets/pages/accessibility.html)
+**Tweet:**  Yes
+**LinkedIn:** No
