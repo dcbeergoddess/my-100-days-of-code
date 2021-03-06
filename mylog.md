@@ -54,3 +54,15 @@
 **Link to work:** [Yarn Projects Page](https://dcbeergoddess.github.io/free-code-camp-snippets/pages/accessibility.html)
 **Tweet:**  Yes
 **LinkedIn:** No
+
+### Day 4: March 5, 2021
+##### Style and Organize my Snippets Website
+
+**Today's Progress:** Set up a more streamline design and bootstrap elements to the snippets website
+**Thoughts:** Enjoyed using some of the skills I just learned again and went ahead to play around with Bootstrap which came pretty quickly and remmbered all the link that were required after running into issues with the nav bar not working. 
+
+**Link to work:** [Snippets Website Updated](https://dcbeergoddess.github.io/free-code-camp-snippets/)
+
+**Tweet:**  YES
+
+**LinkedIn:** NO
