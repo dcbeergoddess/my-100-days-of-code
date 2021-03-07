@@ -66,3 +66,12 @@
 **Tweet:**  YES
 
 **LinkedIn:** NO
+
+### Day 5: March 6, 2021
+##### Bootstrap Cards and more
+
+**Today's Progress:** Getting back into the bootstrap swing of things, added google fonts
+**Thoughts:** CSS can be a mother fucking bitch, looking better on the webpage 
+**Link to work:** [Cards on Responsive Web Page](file:///Users/dcbeergoddess/Documents/free-code-camp-snippets/pages/responsive-web-design.html)
+**Tweet:** YES
+**LinkedIn:** NO
