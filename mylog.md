@@ -75,3 +75,12 @@
 **Link to work:** [Cards on Responsive Web Page](file:///Users/dcbeergoddess/Documents/free-code-camp-snippets/pages/responsive-web-design.html)
 **Tweet:** YES
 **LinkedIn:** NO
+
+### Day 6: March 7, 2021
+##### Accessibility Review and Tribute Page on Free Code Camp
+
+**Today's Progress:** Went through the rest of the Applied Accessibility section in Free Code Camp and went on to finish the first challenge in the Responsive Web Design Section by building a Tribute Page in Code Pen for Rubber Duck Decoding 
+**Thoughts:** Really cool stuff you can do for colorblindness and more on color!!!
+**Link to work:** https://codepen.io/dcbeergoddess/pen/oNYavpe
+**Tweet:**  YES
+**LinkedIn:** NO
