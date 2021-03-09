@@ -1,6 +1,9 @@
 # 100 Days Of Code - Log
 
+<hr>
+
 **Template**
+
 ### Day #: March #, 2021
 ##### Activities
 
@@ -9,6 +12,8 @@
 **Link to work:** 
 **Tweet:**  
 **LinkedIn:** 
+
+<hr>
 
 ### Day 0: March 1, 2021
 ##### Free Code Camp Responsive Web Design
@@ -84,3 +89,16 @@
 **Link to work:** https://codepen.io/dcbeergoddess/pen/oNYavpe
 **Tweet:**  YES
 **LinkedIn:** NO
+
+### Day 7: March 8, 2021
+##### FlexBox - Tweet Clone
+
+**Today's Progress:** Went through FlexBox coding and will continue tomorrow. Updates website, Twitter/Tweet Page with info from exercises
+
+**Thoughts:** FlexBox Principles again!!! Main axis and cross axis. Display Help. Going to test my yarn projects tomorrow in FlexBox
+
+**Link to work:** [TWEET FLEXBOX FUN](https://dcbeergoddess.github.io/free-code-camp-snippets/pages/twitter.html)
+
+**Tweet:** NO - More FlexBox in Day 8: Tweet Two Days
+**LinkedIn:** NO - WEEK UPDATE NEEDED
+
