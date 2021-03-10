@@ -102,3 +102,14 @@
 **Tweet:** NO - More FlexBox in Day 8: Tweet Two Days
 **LinkedIn:** NO - WEEK UPDATE NEEDED
 
+### Day 8: March 9, 2021
+##### Flex-box updates to Yarn Project Page
+
+**Today's Progress:** Made updates to the Project Page, using it as a brainstorm page for how I want to organize my bigger project later down the road. 
+**Thoughts:** Flex-box working well. Soon need to add data base so I can plug in info and have it generate
+**Link to work:** [YARN PROJECTS WITH FLEXBOX](https://dcbeergoddess.github.io/free-code-camp-snippets/pages/accessibility.html)
+**Tweet:** YES
+**LinkedIn:** YES
+
+### March 10th - DAY OFF - Tutorial/Colt Day Only - MIND TIRED
+
