@@ -113,3 +113,14 @@
 
 ### March 10th - DAY OFF - Tutorial/Colt Day Only - MIND TIRED
 
+### Day 9: March 11th, 2021
+##### ASYNC JavaScript and Promises
+
+**Today's Progress:** Followed Along with Colt's tutorial and started playing around with old projects that had API's. Want to build new API with third party for practice today and tomorrow
+**Thoughts:** BRAIN HURTSSSSS - NEED to get my head super wrapped around these concepts to really drive home the backend that I've been working with in past projects
+**Link to work:** N/A
+**Tweet:** NOT TODAY
+**LinkedIn:** NOT TODAY
+
+
+
