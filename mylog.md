@@ -116,6 +116,17 @@
 **Tweet:** YES
 **LinkedIn:** NO
 
+### Day 11: March 13th, 2021
+##### OBJECT ORIENTED PROGRAMMING
+
+**Today's Progress:** Good Review of OOP and CLASSES
+**Thoughts:** This is where I have struggled in past but really coming home to me know
+**Link to work:** n/a
+**Tweet:** NO
+**LinkedIn:** NO
+
+
+
 
 
 
