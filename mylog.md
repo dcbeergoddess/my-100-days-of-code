@@ -134,6 +134,15 @@
 **Tweet:** YES
 **LinkedIn:** NO
 
+### Day 13: March 15th, 2021
+##### NODE.JS AND EXPRESS
+
+**Today's Progress:** MORE BACKEND!!! REVIEWING EXPRESS, Learning EJS as Templating tool. Familiar with handlebars
+**Thoughts:** review on express and starting servers easy, getting back into new templating tool will be cool. MORE FULL WEBSITES
+**Link to work:** COLT REPO
+**Tweet:** NO
+**LinkedIn:** NO
+
 
 
 
