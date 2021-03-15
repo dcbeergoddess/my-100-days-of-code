@@ -125,6 +125,14 @@
 **Tweet:** NO
 **LinkedIn:** NO
 
+### Day 12: March 14th, 2021
+##### NODE.JS and BACKEND
+
+**Today's Progress:** BACK INTO THE BACKEND!!!
+**Thoughts:** review on terminal and backend. created node.js application to build a language guesser you can use in the command line
+**Link to work:** [LANGUAGE GUESSER](https://github.com/dcbeergoddess/language_guesser)
+**Tweet:** YES
+**LinkedIn:** NO
 
 
 
