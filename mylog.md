@@ -143,6 +143,15 @@
 **Tweet:** NO
 **LinkedIn:** NO
 
+### Day 14: March 16th, 2021
+##### NODE.JS AND EXPRESS
+
+**Today's Progress:** CRUD!!!!!!! RESTful APIs
+**Thoughts:** reviewing routes and CRUD Pattern to make RESTful APIs
+**Link to work:** COLT REPO - COMMENTS
+**Tweet:** YES
+**LinkedIn:** NO
+
 
 
 
