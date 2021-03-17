@@ -152,6 +152,18 @@
 **Tweet:** YES
 **LinkedIn:** NO
 
+### Day 15: March 17th, 2021
+##### BUILDING NOTE TAKER APP WITH FULL CRUD AND EJS
+
+**Today's Progress:** CRUD!!!!!!! Going back to hold homework from bootcamp. Going to take the notetaker example and serve it up using ESJ instead. 
+**Thoughts:** Coding to review everything I've been absorbing over the weekend. 
+**Link to work:** https://github.com/dcbeergoddess/notetaker_express_ejs
+**Tweet:** YES
+**LinkedIn:** NO
+
+
+
+
 
 
 
