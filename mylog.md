@@ -161,6 +161,15 @@
 **Tweet:** YES
 **LinkedIn:** NO
 
+### Day 16: March 18th, 2021
+##### BUILDING NOTE TAKER APP WITH FULL CRUD AND EJS
+
+**Today's Progress:** Still building up full CRUD, got post to work and thought i had new post submitting but now the forms will not work. going to debug tomorrow
+**Thoughts:** UGHUGHUGHGUHGUGHGUGHGUGH... I'm getting there
+**Link to work:** https://github.com/dcbeergoddess/notetaker_express_ejs
+**Tweet:** No
+**LinkedIn:** NO
+
 
 
 
