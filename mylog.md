@@ -170,6 +170,17 @@
 **Tweet:** No
 **LinkedIn:** NO
 
+### WEEKEND BREAK FOR BEER LEAGUE MARCH 19th - 21st
+
+### Day 18: March 22nd, 2021
+##### Databases 
+
+**Today's Progress:** Reconnecting MongoDB on the Computer
+**Thoughts:** THIS IS GONNA SUCK
+**Link to work:** Mongo Setup
+**Tweet:** NO
+**LinkedIn:** NO
+
 
 
 
