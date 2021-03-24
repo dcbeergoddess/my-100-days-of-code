@@ -181,6 +181,15 @@
 **Tweet:** NO
 **LinkedIn:** NO
 
+### Day 19: March 23rd, 2021
+##### Databases - Mongoose
+
+**Today's Progress:** Revisiting CRUD operations in Mongoose
+**Thoughts:** It's all coming back to me now
+**Link to work:** N/A - Mostly command line playing around 
+**Tweet:** YES
+**LinkedIn:** NO
+
 
 
 
