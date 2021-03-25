@@ -190,6 +190,15 @@
 **Tweet:** YES
 **LinkedIn:** NO
 
+### Day 20: March 24th, 2021
+##### Databases - Mongoose
+
+**Today's Progress:** More fun with Mongoose ORM/ODM Models --> Validations and Schemas --> Models and example products
+**Thoughts:** Still coming back pretty well. 
+**Link to work:** NOTES IN WEB DEV REPO
+**Tweet:** N)
+**LinkedIn:** NO
+
 
 
 
