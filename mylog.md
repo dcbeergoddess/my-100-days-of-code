@@ -199,6 +199,16 @@
 **Tweet:** N)
 **LinkedIn:** NO
 
+### Day 21-22: March 25th-26th, 2021
+
+**Today's Progress:** Research for coding jobs --- algorithm --- 
+**Thoughts:** Feeling confident about skills
+**Link to work:** NOTES IN WEB DEV REPO
+**Tweet:** N0
+**LinkedIn:** NO
+
+
+
 
 
 
