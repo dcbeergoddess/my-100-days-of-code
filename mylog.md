@@ -219,7 +219,7 @@
 
 * **Today's Progress:** Finished working on Product FarmStand App with full CRUD functionality. I fixed some things like creating a function to uppercase the first letter of the Category when you display the category in the title.
 * **Thoughts:** Finally Created a FULL CRUD APP!!!!! Now I just need 
-* **Link to work:** [PRODUCT SECTION IN COLT STEELE](../../Documents/udemy/webdev_2020_coltsteele/42_DATABASE_EXPRESS_MONGOOSE)
+* **Link to work:** [PRODUCT SECTION IN COLT STEELE](https://github.com/dcbeergoddess/webdev_2020_coltsteele/tree/main/42_DATABASE_EXPRESS_MONGOOSE) --> FIGURE OUT HOW TO MAKE LINK WORK
 * **Tweet:** N0
 * **LinkedIn:** NO
 
