@@ -223,6 +223,16 @@
 * **Tweet:** N0
 * **LinkedIn:** NO
 
+### Day 28: April 2nd, 2021
+##### Dc Hook && Coder Designs
+
+* **Today's Progress:** STARTED MY WEBSITE
+* **Thoughts:** EXCITED
+* **Link to work:** [GitHub dcHooknCoderDesigns](https://github.com/dcbeergoddess/dcHooknCoderDesigns)
+* **Tweet:** YES
+* **LinkedIn:** No
+
+
 
 
 
