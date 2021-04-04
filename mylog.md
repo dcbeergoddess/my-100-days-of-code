@@ -232,6 +232,14 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+### Day 29: April 3rd, 2021
+##### Dc Hook && Coder Designs
+
+* **Today's Progress:** Finished up some CRUD functionality to have the basics started. Trello Board set up with all steps to go along to build a full stack application with the right authentication and security. 
+* **Thoughts:** Going well so far!!! looking forward to building this out!
+* **Link to work:** [Trello Board](https://trello.com/b/6PteyvaW/dc-hook-coder-designs)
+* **Tweet:** NO
+* **LinkedIn:** No
 
 
 
