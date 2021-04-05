@@ -256,7 +256,7 @@
 * **Today's Progress:** FULL CRUD FUNCTIONALITY --> Intro to creating middleware for app
 * **Thoughts:** YAAYAYYAYAYAYAYAYAY
 * **Link to work:** [Trello Board](https://trello.com/b/6PteyvaW/dc-hook-coder-designs)
-* **Tweet:** NO
+* **Tweet:** YES
 * **LinkedIn:** No
 
 
