@@ -241,11 +241,23 @@
 * **Tweet:** NO
 * **LinkedIn:** No
 
+### Day 30: April 4th, 2021
+##### Dc Hook && Coder Designs
 
+* **Today's Progress:** Added more CRUD functionality to the app. 
+* **Thoughts:** No big issues thus far. following along as I work on project for yelp-camp simultaneously to get all info injected in my brain
+* **Link to work:** [Trello Board](https://trello.com/b/6PteyvaW/dc-hook-coder-designs)
+* **Tweet:** NO
+* **LinkedIn:** No
 
+### Day 31: April 5th, 2021
+##### Dc Hook && Coder Designs
 
-
-
+* **Today's Progress:** FULL CRUD FUNCTIONALITY --> Intro to creating middleware for app
+* **Thoughts:** YAAYAYYAYAYAYAYAYAY
+* **Link to work:** [Trello Board](https://trello.com/b/6PteyvaW/dc-hook-coder-designs)
+* **Tweet:** NO
+* **LinkedIn:** No
 
 
 
