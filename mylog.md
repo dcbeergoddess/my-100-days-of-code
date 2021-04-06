@@ -262,7 +262,7 @@
 ### Day 31: April 6th, 2021
 ##### Dc Hook && Coder Designs
 
-* **Today's Progress:** Learning basic styles from new BOOTSTRAP5!, no longer dependent on jQuery, ejs-mate for boilerplate help, setting up boilerplate partials, using api from unsplash to generate images
+* **Today's Progress:** Learning basic styles from new BOOTSTRAP5!, no longer dependent on jQum, ejs-mate for boilerplate help, setting up boilerplate partials, using api from unsplash to generate images
 * **Thoughts:** Image generator kind of cool. had issues with promises in my seeds folder but all fixed now!!! Kept getting Topology error because I was closing the connection before data was done seeding. Fun of async and await - They have a CIVIL RIGHTS COLLECTION --> FUTURE FIXES ON PROJECTS
 * **Link to work:** [Unsplash API](https://source.unsplash.com/)
 * **Tweet:** YES
