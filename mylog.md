@@ -268,6 +268,15 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+### Day 32: April 7th, 2021
+##### Error Handling in Express
+
+* **Today's Progress:** Working on learning best practices for handling errors in express.js especially in regards to async functions
+* **Thoughts:** getting to the important shit. ERRORS!!!!!
+* **Link to work:** N/A
+* **Tweet:** No
+* **LinkedIn:** No
+
 
 
 
