@@ -277,6 +277,15 @@
 * **Tweet:** No
 * **LinkedIn:** No
 
+### Day 33: April 7th, 2021
+##### Basic Express Error Handling in hooknCoder
+
+* **Today's Progress:** Added some basic error handling to my project including a generic express error class to handle incoming errors from express along with sending mongoose errors to next as well. Need to clean up some messaging but so far some very basic error handling for now and catching async problems
+* **Thoughts:** ASYNC-----------------> WE NEED EXPRESS 5
+* **Link to work:** dcHooknCoderDesigns repo
+* **Tweet:** Yes
+* **LinkedIn:** No
+
 
 
 
