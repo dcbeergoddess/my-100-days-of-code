@@ -268,7 +268,7 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
-### Day 32: April 7th, 2021
+### Day 32: April 8th, 2021
 ##### Error Handling in Express
 
 * **Today's Progress:** Working on learning best practices for handling errors in express.js especially in regards to async functions
@@ -277,11 +277,20 @@
 * **Tweet:** No
 * **LinkedIn:** No
 
-### Day 33: April 7th, 2021
-##### Basic Express Error Handling in hooknCoder
+### Day 33: April 9th, 2021
+##### Basic Express Error Handling in dcHooknCoder
 
 * **Today's Progress:** Added some basic error handling to my project including a generic express error class to handle incoming errors from express along with sending mongoose errors to next as well. Need to clean up some messaging but so far some very basic error handling for now and catching async problems
 * **Thoughts:** ASYNC-----------------> WE NEED EXPRESS 5
+* **Link to work:** dcHooknCoderDesigns repo
+* **Tweet:** Yes
+* **LinkedIn:** No
+
+### Day 34: April 7th, 2021
+##### JOI Schema Validation and MIDDLEWARE!!!! - dcHooknCoder
+
+* **Today's Progress:** Working with JOI, Set up Express Error Page Template to Render, JOI Validating my Project Object in craft website project.
+* **Thoughts:** Always better to make sure things work piece by piece. Tried to implement JOI all in one go after coding in tutorial but didn't get it to work right away. The problem was actually I tested wrong in POSTMAN. Probably was working the entire time. But always great practice. 
 * **Link to work:** dcHooknCoderDesigns repo
 * **Tweet:** Yes
 * **LinkedIn:** No
