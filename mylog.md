@@ -295,6 +295,14 @@
 * **Tweet:** Yes
 * **LinkedIn:** No
 
+### Day 35: April 8th, 2021
+##### Databases and Relationships 
+* **Today's Progress:** Revisiting Mongo and Database Relationships and how the relate to making models and serving them up to express. Using DemoApp about Farms and Products from Colt Steele Code-Along
+* **Thoughts:** Keep on getting better and better towards the real deal of making models and relationships in express work!!!
+* **Link to work:** webdev 2020 repo
+* **Tweet:** No
+* **LinkedIn:** No
+
 
 
 
