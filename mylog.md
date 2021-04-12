@@ -268,7 +268,7 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
-### Day 32: April 8th, 2021
+### Day 32: April 7th, 2021
 ##### Error Handling in Express
 
 * **Today's Progress:** Working on learning best practices for handling errors in express.js especially in regards to async functions
@@ -277,7 +277,7 @@
 * **Tweet:** No
 * **LinkedIn:** No
 
-### Day 33: April 9th, 2021
+### Day 33: April 8th, 2021
 ##### Basic Express Error Handling in dcHooknCoder
 
 * **Today's Progress:** Added some basic error handling to my project including a generic express error class to handle incoming errors from express along with sending mongoose errors to next as well. Need to clean up some messaging but so far some very basic error handling for now and catching async problems
@@ -286,7 +286,7 @@
 * **Tweet:** Yes
 * **LinkedIn:** No
 
-### Day 34: April 7th, 2021
+### Day 34: April 9th, 2021
 ##### JOI Schema Validation and MIDDLEWARE!!!! - dcHooknCoder
 
 * **Today's Progress:** Working with JOI, Set up Express Error Page Template to Render, JOI Validating my Project Object in craft website project.
@@ -295,13 +295,16 @@
 * **Tweet:** Yes
 * **LinkedIn:** No
 
-### Day 35: April 8th, 2021
+### Day 35: April 10th, 2021
 ##### Databases and Relationships 
 * **Today's Progress:** Revisiting Mongo and Database Relationships and how the relate to making models and serving them up to express. Using DemoApp about Farms and Products from Colt Steele Code-Along
 * **Thoughts:** Keep on getting better and better towards the real deal of making models and relationships in express work!!!
 * **Link to work:** webdev 2020 repo
 * **Tweet:** No
 * **LinkedIn:** No
+
+### DAY OF REST SUNDAY: APRIL 11th, 2021 --> Still did some SQL w/ MIMO APP
+
 
 
 
