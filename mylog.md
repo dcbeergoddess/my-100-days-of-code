@@ -321,6 +321,14 @@
 * **Tweet:** No
 * **LinkedIn:** No
 
+### Day 38: April 14th, 2021
+##### Express - SESSIONS
+* **Today's Progress:** LEARNING Express-SESSIONS and how to data store for a user using cookies and keep the data in local memory for now. Did some coding exercises to test out how they work and storing on the server-side to send back to the client to reuse during their session before we restart the server.
+* **Thoughts:** Remember having trouble with this in React.JS during organizing for change. I believe we ended up using PassportJS for help. Will go back once the yarn project is done!!! 
+* **Link to work:** webdev 2020 repo
+* **Tweet:** No
+* **LinkedIn:** No
+
 
 
 
