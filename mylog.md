@@ -305,10 +305,18 @@
 
 ### DAY OF REST SUNDAY: APRIL 11th, 2021 --> Still did some SQL w/ MIMO APP
 
-### Day 36: April 11th, 2021
+### Day 36: April 12th, 2021
 ##### Adding Complexity
 * **Today's Progress:** Creating more complex models in our yelp-camp by coding in a review model and creating one-to-many relationship using ObjectId array in parent model as we think of scalability in the fact that the parent model could have the potential for thousands and thousands of reviews.
 * **Thoughts:** doing a review vs comments in my yarn project app
+* **Link to work:** webdev 2020 repo
+* **Tweet:** No
+* **LinkedIn:** No
+
+### Day 37: April 13th, 2021
+##### COOKIES
+* **Today's Progress:** LEARNING COOKIES AND SETTING UP cookie-parser to verify data has not been tampered with --> `cryptographic signature`. Cookies also are used for tracking data which is why is has become controversial... tracks users web browsing... ugh
+* **Thoughts:** Keys to verify the integrity of data is now all starting to make sense when you are getting into crypto and blockchain. curious to see the cross over in certain context 
 * **Link to work:** webdev 2020 repo
 * **Tweet:** No
 * **LinkedIn:** No
