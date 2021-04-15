@@ -326,6 +326,14 @@
 * **Today's Progress:** LEARNING Express-SESSIONS and how to data store for a user using cookies and keep the data in local memory for now. Did some coding exercises to test out how they work and storing on the server-side to send back to the client to reuse during their session before we restart the server.
 * **Thoughts:** Remember having trouble with this in React.JS during organizing for change. I believe we ended up using PassportJS for help. Will go back once the yarn project is done!!! 
 * **Link to work:** webdev 2020 repo
+* **Tweet:** Yes
+* **LinkedIn:** No
+
+### Day 39: April 15th, 2021
+##### dcHooknCoderDesigns 
+* **Today's Progress:** Started coding model for comments and adding form to ejs on project show page. will continue with this and post about what I got finished by the end of the day tomorrow. 
+* **Thoughts:** Going so well so far. had no major problems to debug setting up the easy stuff for now. will make comments model include for items, such as create_by date in future. for now just want to use to test the routes that are coming next
+* **Link to work:** dcHooknCoder Repo
 * **Tweet:** No
 * **LinkedIn:** No
 
