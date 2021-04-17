@@ -337,6 +337,14 @@
 * **Tweet:** No
 * **LinkedIn:** No
 
+### Day 40: April 16th, 2021
+##### SQL on M1M0
+* **Today's Progress:** Saw an advertisement on linkedIn for M1M0, it has free exercises to learn HTML/CSS/JAVASCRIPT, PYTHON, and SQL. Yesterday was also vaccine recovery day. Decided to just spend time on the app refreshing myself on SQL syntax, building little projects in the app. 
+* **Thoughts:** SQL! Great resource without having to be on an IDE!
+* **Link to work:** [MIMO APP](https://getmimo.com/)
+* **Tweet:** YES
+* **LinkedIn:** No
+
 
 
 
