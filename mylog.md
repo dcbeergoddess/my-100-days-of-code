@@ -345,6 +345,13 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+### Day 41: April 17th, 2021
+##### dcHooknCoderDesigns 
+* **Today's Progress:** Finished up the simple COMMENT Model for now to post comments on a project w/ proper JOI and Bootstrap Validation. Using mongoose middleware we can know delete all comments associated with a project. 
+* **Thoughts:** Want to add user and created_at date && time to comment model later, as the textarea format does not post comment with line breaks even though that is how you typed it in. Shows up with `r/n` in mongo when looking up all comments in the database. 
+* **Link to work:** dcHooknCoder Repo
+* **Tweet:** YES
+* **LinkedIn:** No
 
 
 
