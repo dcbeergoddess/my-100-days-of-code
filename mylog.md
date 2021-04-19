@@ -353,5 +353,11 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
-
+### Day 42: April 18th, 2021
+##### SQL on M1M0 
+* **Today's Progress:** More SQL syntax refreshment exercises  
+* **Thoughts:** SQL! Great resource without having to be on an IDE!
+* **Link to work:** [MIMO APP](https://getmimo.com/)
+* **Tweet:** YES
+* **LinkedIn:** No
 
