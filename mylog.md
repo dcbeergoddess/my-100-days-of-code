@@ -358,6 +358,14 @@
 * **Today's Progress:** More SQL syntax refreshment exercises  
 * **Thoughts:** SQL! Great resource without having to be on an IDE!
 * **Link to work:** [MIMO APP](https://getmimo.com/)
+* **Tweet:** NO
+* **LinkedIn:** No
+
+### Day 43: April 19th, 2021
+##### Authentication from "SCRATCH" 
+* **Today's Progress:** Digging into Password Security, Password Salts, Cryptographic Hash Functions, BCRYPT Hashing Function 
+* **Thoughts:** Awesome to finally get to learning Authentication for security!!! From Scratch for now, will use `Passport` later in project.
+* **Link to work:** Web Dev 2020 Repo
 * **Tweet:** YES
 * **LinkedIn:** No
 
