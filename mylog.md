@@ -369,3 +369,7 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+### DAY 44: April 20th, 2021
+##### More Important Day than to reflect on my own code
+* #BlackLivesMatter #OneStepInTheRightDirection --> MY SHIT IS NOT IMPORTANT TODAY!!!
+
