@@ -374,7 +374,7 @@
 * #BlackLivesMatter #OneStepInTheRightDirection --> MY SHIT IS NOT IMPORTANT TODAY!!!
 
 ### DAY 45: April 21th, 2021
-##### Authentication from For 
+##### Authentication for YelpCamp 
 * **Today's Progress:** Setting up basic authentication in YelpCamp --> setting up authorization to attach authors to campgrounds, etc.
 * **Thoughts:** It's coming along just fine :)
 * **Link to work:** Web Dev 2020 Repo
