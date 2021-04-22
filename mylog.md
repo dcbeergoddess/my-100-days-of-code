@@ -381,3 +381,12 @@
 * **Tweet:** NO
 * **LinkedIn:** No
 
+### DAY 46: April 22th, 2021
+##### Review Permissions for YelpCamp 
+* **Today's Progress:** Creating Reviews in YelpCamp Project and working with middleware to protect those routes and associate with user that created them
+* **Thoughts:** Always need to build out models and associate models with scalability in mind. Sometime you only need one aspect of a model and just not serve to populate entire model object if you only need one thing like a username
+* **Link to work:** Web Dev 2020 Repo
+* **Tweet:** NO
+* **LinkedIn:** No
+
+
