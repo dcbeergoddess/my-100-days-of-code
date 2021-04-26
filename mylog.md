@@ -385,8 +385,25 @@
 ##### Review Permissions for YelpCamp 
 * **Today's Progress:** Creating Reviews in YelpCamp Project and working with middleware to protect those routes and associate with user that created them
 * **Thoughts:** Always need to build out models and associate models with scalability in mind. Sometime you only need one aspect of a model and just not serve to populate entire model object if you only need one thing like a username
-* **Link to work:** Web Dev 2020 Repo
+* **Link to work:** YELPCAMP
 * **Tweet:** NO
 * **LinkedIn:** No
+
+## TOOK BREAK APRIL 24th
+
+### DAY 47 && 48: April 23th && April 25th
+##### Implement star reviews for YelpCamp 
+* **Today's Progress:** worked with Starability-CSS to add to reviews in yelpcamp repo
+* **Thoughts:** NEW FUN WAY TO IMPLEMENT COOL CSS FILES!!!
+* **Link to work:** YELPCAMP
+* **Tweet:** NO
+* **LinkedIn:** No
+
+
+
+- possible post for Colt's Course:
+* I'm finally very close to finishing up w/ Colt and now that I'm in Yelp Camp and start coding ahead of Colt during the restructuring I end up making mistakes and catching them on my own. Usually just a dumb typo. Several times now when I let the video catch up and see Colt make the same mistakes I had just made. Are mistakes on purpose. Catch instructor making mistakes on purpose
+
+
 
 
