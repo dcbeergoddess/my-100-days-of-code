@@ -399,6 +399,14 @@
 * **Tweet:** NO
 * **LinkedIn:** No
 
+### DAY 49: April 26th, 2021
+##### Image Uploads for YelpCamp 
+* **Today's Progress:** How do we upload files use multer middleware, and saving to cloudinary.com
+* **Thoughts:**  MORE MIDDLEWARE
+* **Link to work:** YELPCAMP
+* **Tweet:** YES
+* **LinkedIn:** No
+
 
 
 - possible post for Colt's Course:
