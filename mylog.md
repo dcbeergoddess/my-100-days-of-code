@@ -415,6 +415,15 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+## DAY 51: April 27th, 2021
+##### MapBox and Cluster Maps
+* **Today's Progress:** Learning how to implement a cluster map using mapbox
+* **Thoughts:** Using more fun tools instead of having to manually code
+* **Link to work:** YELPCAMP
+* **Tweet:** YES
+* **LinkedIn:** No
+
+
 - possible post for Colt's Course:
 * I'm finally very close to finishing up w/ Colt and now that I'm in Yelp Camp and start coding ahead of Colt during the restructuring I end up making mistakes and catching them on my own. Usually just a dumb typo. Several times now when I let the video catch up and see Colt make the same mistakes I had just made. Are mistakes on purpose. Catch instructor making mistakes on purpose
 
