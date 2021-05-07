@@ -426,7 +426,13 @@
 ## EXTENDED STAY-CATION: PARENTS VISIT April 28th - May 5th, 2021
 * When you have not socialized in awhile and have to host your parents in the city in pandemic times can be very exhausting mentally but was able to talk to my parents about what I'm learning and where I want to take it from here whether I can find my way to civic tech, education, or just an entry-level position I can build my skills in.
 
-
+## DAY 52: May 6th, 2021
+##### Common Security Issues
+* **Today's Progress:** Diving into some of the packages we can use to develop better security for our applications including packages for express that help sanitize Mongo and extensions we can make to JOI if that is what you are using. And HELMET that helps provide several security application to protect your project. 
+* **Thoughts:** In bigger applications there is a whole team devoted to this work. But looking forward to diving into some docs and learning more about what I can do for my own personal projects that might start including sensitive information
+* **Link to work:** YELPCAMP
+* **Tweet:** YES
+* **LinkedIn:** No
 
 
 
