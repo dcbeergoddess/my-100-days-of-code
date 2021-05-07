@@ -434,6 +434,16 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+## DAY 53: May 7th, 2021
+##### Heroku and Deployment
+* **Today's Progress:** Went along with Colt to learn how to start up Cluster on Mongo Atlas to connect to application and use when we upload to Heroku. Can't wait to try it out on the OFC APP!!!
+* **Thoughts:** I AM DONE WITH COLT STEELE WEB DEVELOPER CAMP 2021!!!!!!!!!!!
+* **Link to work:** YELPCAMP
+* **Tweet:** YES
+* **LinkedIn:** YES
+
+
+
 
 
 
