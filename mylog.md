@@ -423,9 +423,11 @@
 * **Tweet:** YES
 * **LinkedIn:** No
 
+## EXTENDED STAY-CATION: PARENTS VISIT April 28th - May 5th, 2021
+* When you have not socialized in awhile and have to host your parents in the city in pandemic times can be very exhausting mentally but was able to talk to my parents about what I'm learning and where I want to take it from here whether I can find my way to civic tech, education, or just an entry-level position I can build my skills in.
 
-- possible post for Colt's Course:
-* I'm finally very close to finishing up w/ Colt and now that I'm in Yelp Camp and start coding ahead of Colt during the restructuring I end up making mistakes and catching them on my own. Usually just a dumb typo. Several times now when I let the video catch up and see Colt make the same mistakes I had just made. Are mistakes on purpose. Catch instructor making mistakes on purpose
+
+
 
 
 
