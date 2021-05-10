@@ -442,7 +442,8 @@
 * **Tweet:** YES
 * **LinkedIn:** YES
 
-
+## May 8th - 9th, 2021
+* Luray, VA Vacation where there was no service and NO TECHNOLOGY!!!!
 
 
 
