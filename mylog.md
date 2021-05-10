@@ -445,7 +445,7 @@
 ## May 8th - 9th, 2021
 * Luray, VA Vacation where there was no service and NO TECHNOLOGY!!!!
 
-## DAY 54: May 7th, 2021
+## DAY 54: May 10th, 2021
 ##### DC Hook && Coder Designs 
 * **Today's Progress:** Moving code around for routes and serving up a public folder to hold scripts and stylesheets that we will add on to later!
 * **Thoughts:** So far going a long very well
