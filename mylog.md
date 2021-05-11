@@ -453,5 +453,26 @@
 * **Tweet:** YES
 * **LinkedIn:** NO
 
+## DAY 55: May 11th, 2021
+##### DC Hook && Coder Designs Debugging
+* **Today's Progress:** Setting Up Passport and User Authentication... Was having issues getting access to req.user to successfully as middleware to check if the currentUser is the author of the project. It's an issue I had with my code getting updated wrong in async function. After an hour of more of going over everything finally caught the issue and now we are back on track
+* **Thoughts:** REMEMBER THIS ERROR --> for some reason a second await pops up with parens around the first await....
+```js
+//SHOW - PROJECT DETAIL PAGE
+router.get('/:id', catchAsync(async (req, res) => {
+  const project = await (await Project.findById(req.params.id).populate('comments').populate('author'));
+  if(!project){
+  req.flash('error', 'Cannot Find That Project')
+  }
+  console.log(project)
+  res.render('projects/show', { project });
+}));
+```
+* **Link to work:** DCHooknCoderDesigns Repo
+* **Tweet:** YES
+* **LinkedIn:** NO
+
+
+
 
 
