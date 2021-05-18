@@ -472,6 +472,24 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** YES
 * **LinkedIn:** NO
 
+## DAY 56 && 57: May 12th & 13th, 2021
+##### DC Hook && Coder Designs && Code for America
+* **Today's Progress:** Spent coding time on my website but more importantly attended the Code for America Summit where I was able to be around like minded folks trying to do go for building a better system that is inclusive for all that are in need of better practices in our government. 
+* **Thoughts:** I found my people
+* **Link to work:** DCHooknCoderDesigns Repo && Code For America
+* **Tweet:** YES
+* **LinkedIn:** NO
+
+## DAY 58 && 59: May 14th && 15th
+##### Cracking the Coding Interview
+* **Today's Progress:** Reading and Practicing for Technical Interviews 
+* **Thoughts:** Getting Ready for the Hard Part
+* **Link to work:** HackerRank
+* **Tweet:** YES
+* **LinkedIn:** NO
+
+## May 16th - Day of Rest
+## May 17th - Helping Jessica Pack and Craft/Hobby Day
 
 
 
