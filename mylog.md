@@ -491,6 +491,15 @@ router.get('/:id', catchAsync(async (req, res) => {
 ## May 16th - Day of Rest
 ## May 17th - Helping Jessica Pack and Craft/Hobby Day
 
+## DAY 60: May 18th. 2021
+##### DotGov Design Conference 
+* **Today's Progress:** Reading and Practicing for Technical Interviews 
+* **Thoughts:** Getting Ready for the Hard Part
+* **Link to work:** HackerRank
+* **Tweet:** YES
+* **LinkedIn:** NO
+
+
 
 
 
