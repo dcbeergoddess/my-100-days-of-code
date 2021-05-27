@@ -492,11 +492,39 @@ router.get('/:id', catchAsync(async (req, res) => {
 ## May 17th - Helping Jessica Pack and Craft/Hobby Day
 
 ## DAY 60: May 18th. 2021
-##### DotGov Design Conference 
-* **Today's Progress:** Reading and Practicing for Technical Interviews 
-* **Thoughts:** Getting Ready for the Hard Part
-* **Link to work:** HackerRank
+##### DotGov Design Conference && GitHub
+* **Today's Progress:** Spent all Day in AIGA DC --> DotGov Design
+* **Thoughts:** Networking and Git and GitHub Refresher
+* **Link to work:** Colt Steele Git and GitHub Bootcamp
 * **Tweet:** YES
+* **LinkedIn:** NO
+
+## DAY 61: May 19th, 2021 
+##### Technical Assessment Prep on hired.com
+* **Today's Progress:** First Attempt at Coding Challenge for an Hour
+* **Thoughts:** Did not quite pass the first 
+* **Link to work:** Hired.Com
+* **Tweet:** NO
+* **LinkedIn:** NO
+
+## May 20th: Bruins Game and Kobe Vet Visit
+
+## DAY 62: May 21st, 2021
+##### Technical Assessment Challenge on hired.com
+* **Today's Progress:** Took a practice exam and then tried again for the FrontEnd Assessment
+* **Thoughts:** Passed!!!! 
+* **Link to work:** Hired.Com
+* **Tweet:** Yes
+* **LinkedIn:** NO
+
+## Funeral and Crochet Therapy --> Attended Funeral May 22nd, Needed some Crochet Therapy Time May 23rd - May 25th to catch up on a year long project (Afghan)
+
+## Day 63 && 64: May 26th-27th 2021
+##### Styling DC Hook n Coder Designs
+* **Today's Progress:** Getting back into Bootstrap 5! and styling my playground that is my yarn projects sites
+* **Thoughts:** UGH --> Styling can take forever to get just one little thing right!!! But Bootstrap Docs are super helpful
+* **Link to work:** DC Hook && Coder Repo
+* **Tweet:** Yes
 * **LinkedIn:** NO
 
 
