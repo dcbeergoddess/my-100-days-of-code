@@ -527,6 +527,20 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
+## May 28th-June 20th 2021 
+* Not making a traditional linear time on the code challenge. May 28th was my birthday and ended up cat sitting over memorial day weekend to taking in new dog to not being in the right mindset
+* long story short, sometimes 3 days off from code turns into 3 weeks, but at least this time it did not turn into 3 months!
+* Getting back on the horse!!
+
+## Day 65 && 66: June 21st and 22nd 2021
+##### Big O Notation Revisit and Deep Dive
+* **Today's Progress:** Review of Algorithms and  Big O Notation
+* **Thoughts:** Review of Big O Notation, How Timing Our Code and Counting Operations end up contributing to the Big O, focus on the bigger fuzzy picture vs. all the little details. Time Complexity and Space Complexity, Along with Logarithms
+* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://github.com/dcbeergoddess/js-algorithms-data-structures)
+* **Tweet:** Yes
+* **LinkedIn:** NO
+
+
 
 
 
