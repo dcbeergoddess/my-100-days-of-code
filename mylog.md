@@ -540,6 +540,14 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
+## Day 67: June 23rd 2021
+##### Big O of Arrays and Objects 
+* **Today's Progress:** Going over Arrays and Objects along with Built-In Methods and overview of the Big O's for basic use and general properties for both
+* **Thoughts:** Better to use Objects when you do not need an ordered list, if using arrays try not to insert or remove from beginning if you don't have to. Will learn better data structures that make insertion and deletion more efficient for ordered lists. 
+* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://github.com/dcbeergoddess/js-algorithms-data-structures/tree/main/02-ARRAYS-OBJECTS)
+* **Tweet:** Yes
+* **LinkedIn:** NO
+
 
 
 
