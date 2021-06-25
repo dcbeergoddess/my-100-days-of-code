@@ -552,11 +552,17 @@ router.get('/:id', catchAsync(async (req, res) => {
 ##### Problem Solving Approaches 
 * **Today's Progress:** Colt taking us step by step on how to approach an interview problem. Also great for real world applications you are trying to build when you get stuck. Learn to break down the easy parts and come back to harder parts after the fact and work them in. GET SOMETHING WORKING
 * **Thoughts:** ASK QUESTIONS!!! HOW CAN YOU MAKE IT MORE EFFICIENT!!! 
-* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://github.com/dcbeergoddess/js-algorithms-data-structures/tree/main/02-ARRAYS-OBJECTS)
+* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://github.com/dcbeergoddess/js-algorithms-data-structures/tree/main/03-PROBLEM-SOLVING)
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
-
+## Day 69: June 25th 2021
+##### Problem Solving Patterns
+* **Today's Progress:** Working on general patterns that can be more efficient than nested loops, etc. 
+* **Thoughts:** Learned the Frequency Counter
+* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://github.com/dcbeergoddess/js-algorithms-data-structures/tree/main/03-PROBLEM-SOLVING)
+* **Tweet:** Yes
+* **LinkedIn:** NO
 
 
 
