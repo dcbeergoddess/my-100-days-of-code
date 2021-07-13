@@ -564,6 +564,14 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
+## Day 70: June 25th 2021
+##### Getting Application ready to Deploy to Heroku
+* **Today's Progress:** Got DC Hook and Coder up and running on Heroku. Now to fix database errors!
+* **Thoughts:** ALWAYS HAVE TO REMEMBER THESE STEPS
+* **Link to work:** [GitHub Repo for js-algorithms-data-structures](https://dc-hook-n-coder-designs.herokuapp.com/)
+* **Tweet:** Yes
+* **LinkedIn:** NO
+
 
 
 
