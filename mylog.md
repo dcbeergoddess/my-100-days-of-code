@@ -580,5 +580,17 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
+## TWO WEEK BREAK
+
+## DAY 72: July 28th 2021
+##### React Refresher
+* **Today's Progress:** Coding along with [Traversy Media React Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+* **Thoughts:** PreWork to pivoting my yarn project app to React and adding more functionality and better styling
+* **Link to work:** [Task App](https://github.com/dcbeergoddess/react-task-tracker)
+* **Tweet:** Yes
+* **LinkedIn:** NO
+
+
+
 
 
