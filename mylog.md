@@ -590,6 +590,14 @@ router.get('/:id', catchAsync(async (req, res) => {
 * **Tweet:** Yes
 * **LinkedIn:** NO
 
+## DAY 73: August 3rd 2021
+##### React Refresher - useState and Props
+* **Today's Progress:** Coding along with [Traversy Media React Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+* **Thoughts:** Refresher on state and props and `useState` hook along with passing and catching `props`
+* **Link to work:** [Task App](https://github.com/dcbeergoddess/react-task-tracker)
+* **Tweet:** YES
+* **LinkedIn:** NO
+
 
 
 
