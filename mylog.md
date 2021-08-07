@@ -713,7 +713,7 @@ router.get(
 - **Today's Progress:** Coding along with [Traversy Media React Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - **Thoughts:** Refresher on Routing and connecting to a backend using a mock server with npm package JSON server that serves up db.json file you can use to create a database and connect the React UI to update with fetch requests, successfully deployed application to Heroku
 - **Link to work:** [Deployed Heroku App](https://vast-scrubland-90888.herokuapp.com/)
-- **Tweet:** NO
+- **Tweet:** YES
 - **LinkedIn:** NO
 
 ## DAY 75-77: August 5th-7th
@@ -723,5 +723,5 @@ router.get(
 - **Today's Progress:** Coding along with [Traversy Media MERN Stack Course on udemy](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/14555408#overview)
 - **Thoughts:** Learning to build the backend of a application before adding the UI (w/ React) --> Learning more about how to set up Postman for a project to test the API you are creating as you go along before you have on front end available. It's really great to just focus on the back end and really drive in the info that I needed to really engrain in my head. We are using a lot of try catch blocks that might be able to switch out for custom validation we used in Colt's course, but not sure if that works when making requests to MongoDb and getting back a promise with mongoose.
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
-- **Tweet:** NO
+- **Tweet:** YES
 - **LinkedIn:** NO
