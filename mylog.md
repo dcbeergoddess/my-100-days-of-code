@@ -725,3 +725,13 @@ router.get(
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
 - **Tweet:** YES
 - **LinkedIn:** NO
+
+## DAY 78: August 8th
+
+##### BACKEND BUILT OUT AND TESTED WITH POSTMAN
+
+- **Today's Progress:** Coding along with [Traversy Media MERN Stack Course on udemy](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/14555408#overview)
+- **Thoughts:** Entire Back End Build out in Postman before having any front-end UI set up ![POSTMAN BACKEND FOR PROJECT](assets/postman_devConnect.png)
+- **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
+- **Tweet:** YES
+- **LinkedIn:** NO
