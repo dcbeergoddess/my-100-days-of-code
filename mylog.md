@@ -735,3 +735,13 @@ router.get(
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
 - **Tweet:** YES
 - **LinkedIn:** NO
+
+## DAY 79 && 80: August 9th & 10th
+
+##### React Redux and UI Setup
+
+- **Today's Progress:** Coding along with [Traversy Media MERN Stack Course on udemy](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/14555408#overview)
+- **Thoughts:** Learning how to useState, useEffect, reducers w/ Redux to help our API interact with the frontend and make appropriate changes to state, Redux Dev Tools are awesome!
+- **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
+- **Tweet:** YES
+- **LinkedIn:** NO
