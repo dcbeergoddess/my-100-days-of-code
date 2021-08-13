@@ -745,3 +745,13 @@ router.get(
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
 - **Tweet:** YES
 - **LinkedIn:** NO
+
+## DAY 81 && 82: August 11th & 13th
+
+##### More Redux and State && Graphic Design
+
+- **Today's Progress:** Coding along with [Traversy Media MERN Stack Course on udemy](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/14555408#overview)
+- **Thoughts:** Building out Protected Routes and Display certain items based on state of user and their profile, Did some intro to graphic design to help with future css and logo adaptation in applications for extra flare
+- **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
+- **Tweet:** YES
+- **LinkedIn:** NO
