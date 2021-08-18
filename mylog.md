@@ -755,3 +755,13 @@ router.get(
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
 - **Tweet:** YES
 - **LinkedIn:** NO
+
+## DAY 83: August 17th
+
+##### Adding Data to UI
+
+- **Today's Progress:** Coding along with [Traversy Media MERN Stack Course on udemy](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/14555408#overview)
+- **Thoughts:** Displaying components with info from database in the UI in the Dashboard component and using Actions, Types, and Reducers to add functionality to delete certain data and remove and entire account from the DB
+- **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
+- **Tweet:** YES
+- **LinkedIn:** NO
