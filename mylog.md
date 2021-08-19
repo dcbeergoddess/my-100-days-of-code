@@ -765,3 +765,13 @@ router.get(
 - **Link to work:** [GitHub Notes in Repository Follow Along](https://github.com/dcbeergoddess/mern-stack-back-to-front-traversyMedia)
 - **Tweet:** YES
 - **LinkedIn:** NO
+
+## DAY 84: August 18th
+
+##### Adobe XD
+
+- **Today's Progress:** Attended a webinar about Adobe XD with materials given to us via 2U/Triology
+- **Thoughts:** Learned a ton about creating ProtoTypes and using it to test actions, and other components that you can later import into VsCode
+- **Link to work:** [Getting Started with Adobe XD](https://www.adobe.com/products/xd/learn/get-started.html)
+- **Tweet:** YES
+- **LinkedIn:** NO
